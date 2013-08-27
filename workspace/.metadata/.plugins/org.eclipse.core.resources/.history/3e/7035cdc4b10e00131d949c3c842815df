@@ -1,0 +1,21 @@
+
+public class software {
+	public  static void main (String[]args){ 
+		
+		int  dias,horas,sueldo,hextras,domi,noctu;
+		software(int  dias,int horas){
+
+			
+			System.out.print("la cantidad de horas trabajadas");
+a=dimes*hdia;
+System.out.print(a);
+System.out.print("");
+System.out.print("su sueldo es");
+b=a*2456;
+System.out.print(b);
+     
+
+
+
+}
+}

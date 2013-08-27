@@ -1,0 +1,17 @@
+package entradas;
+
+import java.util.Scanner; 
+public class entradas {
+
+public static void main (String [] args){
+	Scanner x=new Scanner (System.in);
+	Scanner y=new Scanner (System.in);
+	int r=x.nextInt(); 
+	int m=x.nextInt();
+	System.out.println("el valor digitado"+r);
+	System.out.println("el valor digitado"+m);
+	int s= x.nextInt() + y.nextInt();
+	System.out.println("el resultado"+s);
+	
+ }
+}

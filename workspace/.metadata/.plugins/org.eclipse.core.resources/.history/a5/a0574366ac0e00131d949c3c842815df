@@ -1,0 +1,19 @@
+
+public class software {
+	public  static void main (String[]args){ 
+double  sueldobasico=600000;
+int cdtra=24;
+int hdia=8; 
+int valorhora=3000;
+int a,b,d;
+a=cdtra*hdia;
+System.out.print("la cantidad de horas trabajadas");
+System.out.print(a);
+System.out.print("");
+System.out.print("su sueldo es");
+
+b=a*3000;
+System.out.print(b);
+
+}
+}

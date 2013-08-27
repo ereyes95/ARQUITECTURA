@@ -1,0 +1,19 @@
+
+public class software {
+	public  static void main (String[]args){ 
+double  sueldobasico=600000;
+int dimes=30;
+
+int hdia=8; 
+int a,b,c,d;
+System.out.print("la cantidad de horas trabajadas");
+a=dimes*hdia;
+
+System.out.print(a);
+System.out.print("");
+System.out.print("su sueldo es");
+
+
+
+}
+}

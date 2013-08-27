@@ -1,0 +1,23 @@
+package ejercicios;
+
+public class Empleado {
+	final private String cedula;
+	private String apellido;
+	private String nombre;
+	private double horasTrabajadas;
+	private double sueldoXHoras;
+	
+	public Empleado(String cedula, String apellido, String nombre, double horasTrabajadas, double sueldoXHoras){
+		
+		if (cedula==null) this.cedula = cedula;
+		else this.cedula = "";
+		    setApellido(apellido);
+		    setNombre(nombre);
+		    setSueldoXHoras(sueldoXHoras);
+		    setHorasTrabajadas(horasTrabajadas);
+		    		    
+}
+     public double calcularSalario(){
+    	 return horasTrabajadas 
+     }
+}

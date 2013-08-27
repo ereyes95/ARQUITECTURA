@@ -1,0 +1,13 @@
+
+public class software {
+	public  static void main (String[]args){ 
+double  sueldobasico=610000;
+int diastrabajados=24;
+int valorhora=2000;
+int a,b,d;
+a=diastrabajados*valorhora;
+System.out.print(a);
+
+
+}
+}

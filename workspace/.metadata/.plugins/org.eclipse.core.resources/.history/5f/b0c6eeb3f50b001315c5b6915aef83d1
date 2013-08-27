@@ -1,0 +1,12 @@
+package entradas;
+
+import java.util.Scanner; 
+public class entradas {
+
+public static void main (String [] args){
+	Scanner x=new Scanner (System.in);
+	int r=x.nextInt();
+	System.out.println("el valor digitado"+r);
+
+ }
+}
